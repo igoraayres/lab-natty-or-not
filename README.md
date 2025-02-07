@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Será que esse trem é IA?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Trem pro mineiro pode ser tudo, inclusive nada... E sse trem o que é?
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+MidJourney
+Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O prompt solicitou a criação de imagem realista baseada na canção "O trem das 7" de Raul Seixas.
+Numa segunda tentativa, foi solicitada ao Copilot a mesma geração, com resultados bem diferentes.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
+![Igor_Ayres_Crie_uma_imagem_hiper_realista_inspirada_na_música_a039a3ae-d5c2-40ac-adcf-95b5c99f40c9](https://github.com/user-attachments/assets/d646cece-806c-449e-b89f-153f396b2cea)
+![Igor_Ayres_Crie_uma_imagem_hiper_realista_inspirada_na_música_b6c0079b-d6f1-415b-9007-52dd4cb90cb5](https://github.com/user-attachments/assets/6a219bf9-6bad-44f0-8b2f-b9a7bb93694d)
+
+![hiperrealistic images of a train, inspired by the song O trem das 7 by Raul Seixas](https://github.com/user-attachments/assets/a6f6962e-fb5a-4068-8433-e39dd36acc4b)
+![A hyperrealistic image of a train and a sunset on a mountain, inspired by the song O trem das 7 by Raul Seixas](https://github.com/user-attachments/assets/2a8b7af8-20a9-44a6-9123-9aeb242c0b37)
+
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O prompt é extremamente importante, assim como a qualidade da IA generativa utilizada, e sua especialização.
